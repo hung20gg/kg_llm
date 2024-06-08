@@ -1,0 +1,44 @@
+Cần tuyển 5 ứng viên phù hợp
+Mô tả công việc
+Tiến hành nghiên cứu và phát triển các thuật toán và kỹ thuật AI
+Áp dụng các thuật toán AI vào các dự án của công ty
+Phối hợp cùng R&D lab team và các bộ phận khác để tích hợp các giải pháp AI vào các dự án
+Triển khai áp dụng machine learning, deep learning tối ưu workflow
+Cập nhật những phát triển mới nhất về AI
+Tạo tài liệu kỹ thuật và trình bày kết quả nghiên cứu cho các nhóm nội bộ tại các event liên quan
+Yêu cầu ứng viên
+Sử dụng thành thạo về python, có từ 6 tháng kinh nghiệm thực tế lập trình với Python
+Nắm vững các khái niệm về OOP, các tiêu chuẩn coding cho Python (PEP8, Google Style...)
+Nắm vững các kiến thức về toán cao cấp (đạo hàm, tích phân, xử lý dữ liệu nhiều chiều...)
+Có kiến thức cơ bản hoặc có kinh nghiệm thực tế với Git, REST API, Docker
+Có kinh nghiệm làm việc với các thư viện xử lý ảnh, xử lý ma trận trên Python: OpenCV, NumPY, SciPy, Pandas ... là một lợi thế.
+Có kinh nghiệm làm việc với các kĩ thuật trong Generative AI như LLM, RAG, Diffusion là một lợi thế.
+Có kinh nghiệm làm việc trong các quy trình phát triển phần mềm Agile, Scrum là một lợi thế
+Sử dụng tiếng anh giao tiếp thành thạo trong công việc là lợi thế
+Quyền lợi
+Môi trường chuyên nghiệp, cởi mở, đề cao sự sáng tạo:
+
+Làm việc cùng những đồng nghiệp có lý tưởng thay đổi xã hội
+Coi trọng những góc nhìn khác biệt trong tập thể
+Văn hóa học tập mạnh mẽ và thúc đẩy phát triển
+Văn hoá chấp nhận rủi ro để trải nghiệm và phát triển
+Tập trung hỗ trợ sự phát triển cá nhân:
+
+Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm
+Được định hướng mục tiêu cá nhân, nhóm và tổ chức
+Trao quyền làm chủ
+Hỗ trợ xác định mục tiêu 3 tháng-6 tháng (Goal Define Support)
+Quan tâm đặc biệt tới nhân viên:
+
+Lương $500-$700 (Gross) cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, sinh hoạt, phái đẹp, tiếng Nhật, chứng chỉ IT,..v.v...)
+Lương tháng 13 & thưởng performance
+Performance review: 2 lần/năm
+Chế độ làm việc Hybrid working, checkin/ checkout linh hoạt
+Bảo hiểm sức khoẻ toàn diện Sun Care
+Chế độ thâm niên
+Chế độ chăm sóc phụ nữ: Nghỉ sinh lý phụ nữ: 2,5h/ tháng; nghỉ sau sinh cho nhân viên nữ có con dưới 1 tuổi: 1h/ngày
+Chính sách hỗ trợ các hoạt động học tập, trao đổi, chia sẻ kiến thức, giao lưu văn hoá (Seminar công nghệ – Tech Expert, CLB: đọc sách, tiếng Nhật, CLB âm nhạc,...)
+Du lịch thường niên, hoạt động team building hàng quý
+
+Địa điểm làm việc
+- Hà Nội: T13, Keangnam Hanoi Landmark Tower, khu E6, khu ĐTM Cầu Giấy, phường Mễ Trì, quận Nam Từ Liêm, Hà Nội, Nam Từ Liêm

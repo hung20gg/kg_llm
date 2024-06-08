@@ -1,0 +1,30 @@
+Top 3 reasons to join us
+Competitive Salary & Benefits
+Training course and certificates
+The preferences when using the services of the Vin
+Job description
+Design and implement a customer data platform using Google Cloud technologies (BigQuery, Cloud Storage, Cloud Functions, etc.)
+Development of data pipelines to ingest, process, and store customer data.
+Collaborate with cross-functional teams (data science, product, analytics) to understand business requirements and design solutions that meet those needs.
+Develop and maintain ETL processes using Google Cloud Dataflow or Apache Beam
+Design and implement data warehousing and data mart architectures in BigQuery
+Implement data quality checks and data validation processes to ensure high-quality customer data.
+Ensure the data platform is scalable, secure, and highly available, with a focus on reliability and performance.
+Work closely with DevOps team to ensure seamless integration with our CI/CD pipeline
+Develop and maintain technical documentation for the data platform.
+Your skills and experience
+Bachelor’s degree Computer Science, Information Technology, or a related field.
+3+ years of experience as a Data Engineer or similar role. Expertise in Google Cloud technologies (BigQuery, Cloud Storage, Cloud Functions, etc.) is a plus.
+Strong understanding of data engineering concepts and best practices.
+Experience designing and implementing data platforms using cloud technologies.
+Proficiency in programming languages such as Java, Python, or Scala.
+Experience with Apache Beam, Google Cloud Dataflow, or similar stream processing frameworks.
+Knowledge of data warehousing and data mart architectures.
+Strong analytical skills and ability to debug complex data engineering issues.
+Excellent communication and collaboration skills.
+Ability to work independently and as part of a distributed team
+Why you'll love working here
+Gathering leading scientists, engineers and experts to cultivate talents and technology dreams, VinBigData is the launch pad for the most daring ideas to lead people into the digital era.
+Opportunity to work in a professional environment gathering more than 100 scientists from leading universities in the world such as Yale University (USA), Johns Hopkins University (USA), University of Illinois (USA), University of Toulouse (France), University of Cambridge (United Kingdom)…
+Participate in professional training courses, improve professional skills.
+Opportunity to learn and self - develop

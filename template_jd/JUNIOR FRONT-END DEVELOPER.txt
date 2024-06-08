@@ -1,0 +1,46 @@
+ 
+ 
+ 
+VIETTELCO -Tận Hưởng Cuộc Sống Số  
+ 
+CÔNG TY CỔ PHẦN ĐIỆN TOÁN VIỄN THÔNG VIETTELCO  
+Đ/C: 101A Liền kề C2 Vũ Ngọc Phan, P. Láng Hạ, Q. Đống Đa, HN   
+Website: http:/Viettelco.com.vn/  
+ 
+JUNIOR FRONT -END DEVELOPER (REACTJS)  
+1. Mô tả công vi ệc 
+• Thiết kế và triển khai front -end code của các ứng dụng web đa nền tảng Javascript bằng 
+cách sử dụng framework/ngôn ngữ mới như ReactJS, VueJS, Angular.  
+• Đọc tài liệu và phân tích yêu cầu từ khách hàng: proposal, specs, design.  
+• Thực hiện phân tích, bóc tách thiết kế, liệt kê các component, lập plan dựa trên design.  
+• Thực hiện code, review code và triển khai ứng dụng.  
+• Thực hiện viết testscript và chạy test.  
+2. Yêu c ầu 
+• Thành thạo HTML5 ＋CSS3, hiểu biết về UI/UX và các nguyên tắc thiết kế  
+• Có ít  nhất 3 - 4 năm kinh nghiệm sử dụng JavaScript, jQuery, Ajax.  
+• Có ít nhất 2 năm  kinh nghiệm làm việc với một trong các framework ReactJS, 
+ReactNative, VueJS, Angular.  
+• Có kinh nghiệm làm việc với framework lập trình hướng đối tượng và cơ sở dữ liệu.  
+• Có hiểu biết và kinh nghiệm thực tế làm việc với RESTful APIs.  
+• Tốt nghiệp Đại học/Cao Đẳng hoặc có các chứng chỉ đào tạo chuyên ngành CNTT.  
+3. Ưu tiên  
+• Nắm bắt kiến thức cơ bản về TypeScript, Redux.  
+• Có kinh nghiệm sử dụng ngôn ngữ lập trình Meta như Sass (SCSS), Less, Stylus để 
+thiết kế CSS.  
+• Có kinh nghiệm sử dụng Tool quản lý version như Git, v.v...  
+• Sẵn sàng học hỏi, nghiên cứu các công nghệ mới.  
+4. Quyền lợi 
+• Thu nh ập khởi điểm từ 12,000,000 – 20,000,000 VNĐ . Review lương 2 l ần/năm.  
+• Tham gia nhóm nghiên cứu và phát triển sản phẩm của công ty  
+• Chuyển giao và đào tạo các công nghệ mới như GoLang, Mic roservices, Cloud 
+Computing, CD/CI, DevOps...  
+• Được đào t ạo kiến thức chuyên ngành, k ỹ năng và tham gia khóa h ọc chuyên sâu.  
+• Được hỗ trợ công c ụ, môi trư ờng, thi ết bị thực hành.  
+• Có lộ trình phát tri ển rõ ràng và có cơ h ội lên v ị trí qu ản lý. 
+• Được làm việc trong môi trư ờng chuyên nghi ệp, trẻ trung, năng đ ộng. 
+• Đảm bảo quy ền lợi BHYT, BHXH theo quy đ ịnh. 
+Liên hệ  
+CÔNG TY CỔ PHẦN ĐIỆN TOÁ N VIỄN THÔNG VIETTELCO  
+Địa chỉ: 101A, Liền kề C2, Vũ Ngọc Phan, Phường Láng Hạ, Đ ống Đa, Hà Nội  
+Email: yennth@viettelco.com.vn  
+Mobile: 0914 .335.496 

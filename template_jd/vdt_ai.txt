@@ -1,0 +1,5 @@
+Viettel Digital Talent want 10 young students or fresh graduated, having enthusiastic passion on Data Science and AI 
+Requirements:
+- Candidate must located in HaNoi
+- Proficiency in Python 
+- Having projects related to DS/AI is a plus

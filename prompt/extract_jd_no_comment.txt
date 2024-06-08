@@ -1,0 +1,16 @@
+[
+    {
+        "languageList" : ["english"],  
+        "cityList" : ["toronto"], 
+        "institutionList" :["university of toronto"],
+        "GPA": 3.5, 
+        "majorList": ["computer science"], 
+        "eduList": ["undergraduate"], 
+        "roleList": ["software developer", "web developer"],
+        "role_exp" 2,
+        "skillList": ["cloud computing", "natural language processing"],
+        "programmingList": ["java", "python"], 
+        "programming_exp":
+        "suitableList" : ["ai engineer", "web developer"]
+    }
+]

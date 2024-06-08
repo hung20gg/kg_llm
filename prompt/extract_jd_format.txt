@@ -1,0 +1,17 @@
+[
+    {
+        "numApplication" : 3, // number of application required
+        "languageList" : ["english"], // spoken language. 
+        "cityList" : ["toronto"], // If the job is freelance or no specific working place, return null
+        "institutionList" :["university of toronto"],
+        "GPA": 3.5, // minimum GPA score
+        "majorList": ["computer science"], // should be specific
+        "eduList": ["Undergraduate"], // Must be the following value: High school, Undergraduate, Bachelor, Master and PhD.
+        "roleList": ["software developer", "web developer"],
+        "role_exp" 2, // left null if not mentioned
+        "skillList": ["design principles", "cloud computing", "natural language processing"], // Must not contain programming language or library
+        "programmingList": ["java", "python", "c++"], // If the job is it-related
+        "programming_exp": 2, // minimum experience required if the job is it-related. Left null if not mentioned
+        "suitableList" : ["software developer", "web developer"]
+    }
+]

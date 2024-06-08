@@ -1,0 +1,30 @@
+Mô tả công việc
+Develop and implement chatbot solutions utilizing NLP (natural language processing) techniques and frameworks.
+Work closely with stakeholders to gather requirements and design conversational experiences that meet business objectives.
+Code and script in Python to build scalable and efficient chatbot applications.
+Utilize various technologies, including REST APIs, NoSQL databases, Vector Databases, and RAG models, to enhance chatbot functionality and performance.
+Conduct thorough testing and debugging to ensure the reliability and accuracy of chatbot systems.
+Stay updated on the latest advancements in NLP and AI technologies, and integrate new tools and methodologies into existing workflows.
+Yêu cầu ứng viên
+Bachelor's degree in Computer Science, Engineering, or related field.
+Minimum of 3 years of experience in AI engineering, with a focus on NLP and chatbot development.
+Proficiency in Python programming language.
+Strong understanding of NLP techniques, algorithms, and frameworks.
+Experience working with AI technologies such as OpenAI, Gemini, and Claude 3.
+Familiarity with REST API integration and NoSQL databases.
+Experience working with Vector Databases and RAG models.
+Good command of English.
+Having JLPT N2/N3 is a plus.
+Ability to work independently and as part of a collaborative team.
+Strong problem-solving skills and attention to detail.
+Quyền lợi
+Competitive salary up to $2400 (Negotiable)
+13-month salary and monthly financial support policies;
+Annual salary review
+Extra Premium health insurance coverage by the company
+Annual Medical checkup;
+Budget for weekly, and monthly group activities, such as happy hours, outdoor activities, etc. 10-25 USD/person/month after probation time;
+Other benefits: hospitalization (>=4 days), wedding, funeral, offspring delivery support: 1,000,000-2,000,000 VND once;
+Annual events: team building activities, New Year party, Christmas party, etc.
+Địa điểm làm việc
+- Hà Nội: Times Tower, 35 Lê Văn Lương, Thanh Xuân, Thanh Xuân

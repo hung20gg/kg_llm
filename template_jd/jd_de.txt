@@ -1,0 +1,105 @@
+Can tuyen 3 ban
+Mô tả công việc
+- Khai thác và thu thập dữ liệu, thông tin từ nhiều nguồn khác nhau trong hệ sinh thái và đối tác bên ngoài vào platform của VNPAY
+
+- Đảm bảo dữ liệu được tổ chức và lưu trữ hiệu quả nhất cho mục đích khai thác
+
+- Thiết kế, xây dựng và duy trì các data pipeline được tối ưu hóa và các giải pháp ETL/ELT làm công cụ hỗ trợ doanh nghiệp trong việc cung cấp nền tảng phân tích và phân tích theo thời gian thực.
+
+- Chủ động giao tiếp với người dùng dữ liệu để hiểu các yêu cầu dữ liệu, xây dựng và triển khai các giải pháp dữ liệu được tối ưu hóa.
+
+- Đánh giá kiến trúc dữ liệu phức tạp hiện tại trong tổ chức và xác định các cải thiện bắt buộc.
+
+- Xác định các chiến lược cho cơ sở hạ tầng dữ liệu để đáp ứng nhu cầu sử dụng và phân tích dữ liệu của tổ chức.
+
+- Quản lý và thúc đẩy nâng cấp hệ thống và lưu trữ để đáp ứng các yêu cầu kinh doanh và sản phẩm cho hoạt động dữ liệu.
+
+- Thiết kế và cung cấp cơ sở hạ tầng dữ liệu và chức năng với các công nghệ phù hợp nhất cho DA, DS và các vai trò kinh doanh khác để kiếm tiền từ dữ liệu và thực hiện chiến lược của VNPAY.
+
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học các chuyên ngành về Công nghệ thông tin, Khoa học Máy tính, Hệ thống thông tin,...
+
+- Có trên 6 tháng kinh nghiệm ở lĩnh vực tương đương
+
+- Sử dụng 1 trong 3 ngôn ngữ lập trình: Java, Scala, Python
+
+- Làm việc với hệ sinh thái bigdata của Apache: Hadoop, Spark, Kafka, Nifi, Airflow, Flink, Kafka, Hive,...
+
+- Làm việc với các CSDL NOSQL: Mongo, Redis,... và các CSDL SQL: Oracle, Postgres,...
+
+- Làm việc với Docker, Kubernetes, Google Bigquery là điểm cộng
+
+- Hiểu biết cơ bản về các thuật toán tìm kiếm, sắp xếp
+
+- Hiểu biết sâu về tối ưu các task ETL/ELT, thiết kế và xây dựng các data model đa chiều
+
+- Hiểu biết về các nguyên tắc an ninh dữ liệu để đảm bảo tuân thủ
+
+- Có kinh nghiệm làm việc trong mô hình Agile
+
+- Có kinh nghiệm trong việc thiết kế, lập trình, cung cấp các microservices có hiệu năng cao và/hoặc cung cấp các giải pháp phục vụ hàng triệu người dùng
+
+Quyền lợi
+1. Chế độ lương & thưởng hấp dẫn:
+
+- Mức lương thỏa thuận theo năng lực, đánh giá năng lực hàng năm
+
+- Chế độ thưởng phong phú và hấp dẫn (Theo quy định và chính sách công ty)
+
+- Hỗ trợ ăn sáng miễn phí
+
+- Hỗ trợ ăn trưa: 50.000đ/ngày
+
+- Hỗ trợ gửi xe, xăng xe, điện thoại (tùy vị trí)
+
+- Hỗ trợ trang điểm cho CBNV nữ
+
+- Quà tặng các ngày lễ trong năm
+
+2. Bảo hiểm & chăm sóc sức khỏe toàn diện:
+
+- BHXH, BHYT, BHTN theo pháp luật hiện hành
+
+- Gói bảo hiểm sức khỏe cao cấp 24/7 mua cho nhân viên & người thân nhân viên
+
+- Khám sức khỏe định kỳ hàng năm
+
+3. Môi trường làm việc hiện đại:
+
+- Cung cấp máy tính & trang thiết bị làm việc hiện đại
+
+- Văn phòng làm việc hiện đại, trang thiết bị làm việc Hi- tech
+
+- Không gian ăn nhẹ miễn phí (nước uống, trà cafe, hoa quả, sữa chua)
+
+4. Phát triển nghề nghiệp:
+
+- Cơ hội tiếp cận với những công nghệ mới, những dự án quy mô lớn
+
+- Làm việc cùng đội ngũ hơn 1000 nhân sự tài năng, có chuyên môn giỏi, dày dặn kinh nghiệm, tư duy chia sẻ
+
+- Được tài trợ kinh phí tham gia các chương trình đào tạo nâng cao năng lực
+
+- Công ty thành lập hơn 16 năm với các sản phẩm & dịch vụ đã được khẳng định vị thế trên thị trường
+
+5. Hoạt động ngoại khóa phong phú:
+
+- Văn hóa công ty đặc sắc với nhiều hoạt động đoàn thể được quan tâm đầu tư: Team building, Nghỉ mát (trong nước và nước ngoài), 20/10, Year End Party, hoạt động thiện nguyện,...
+
+- Các câu lạc bộ:
+
+CLB Cầu lông
+
+CLB Bóng đá
+
+CLB Yoga
+
+CLB Điền kinh
+
+CLB Bơi
+
+Ghi chú: Chúng tôi sẽ liên hệ trong vòng 07 ngày với những CV phù hợp
+
+Địa điểm làm việc
+- Hà Nội: 22 Láng Hạ, Đống Đa, Hà Nội, Đống Đa
+- TP Ho chi minh: 22 Quan 1, Tp Ho Chi Minh

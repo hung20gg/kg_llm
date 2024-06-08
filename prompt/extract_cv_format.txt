@@ -1,0 +1,56 @@
+[{
+    "name": ${name},
+    "email": ${email},
+    "phone": ${phone},
+    "address": ${address},
+    "city": ${city},
+    "birth_year": ${year},
+    "language": [${language}], // e.g. English, Spanish, etc. Only language.
+    "summary": ${summary}, // A 150 words summary of the person's CV.
+    "education_summary": ${summary}, // A 100 words summary of the person's education, achievements, award and certificate.
+    "education": [
+        {
+            "institution": ${school},
+            "academic_level": ${academic_level}, // One of the following value: High school, Undergraduate, Bachelor, Master and PhD.
+            "major": ${major}, // e.g. Computer Science, Data Science, etc. Only 1 major at a time
+            "GPA": ${gpa}, // A number from 1 to 4 e.g. 3.5, 4.0, etc. If the score is in different format, convert it to 4.0 scale.
+        }
+    ],
+    "achievements_awards":[${achievement}], // Only include outstanding achievements and awards. Return top 5
+
+    "certification":[${certification}], // Only include outstanding achievements and awards. Return top 5
+
+    "suitable_role":[${role}], // e.g. Data Engineer, Data Scientist, Software Engineer, etc. Don't necessarily need to have experience in the role.
+    "work_summary":${summary}, // Summary around 100 words all working experience. Including company, duration, role, contribution. Text only
+    "work_experience":[
+        {
+            "company":${name},
+            "duration":${year_duration}, // number of years working in the company. 
+            "role":${role}, 
+        }
+    ],
+    "projects": ${summary},  // Summary around 100 words about all research and personal projects. Including role, contribution. Text only
+    // Return the general roles that the person have done (e.g. Accounting, Event Planner, Data Engineer, Data Scientist, Software Engineer, etc.)
+    "roles":[
+        {
+            "role":${role},
+            "year_of_exp":${year_of_exp} // number of years of working or researching experience
+        }
+    ],
+    // Return the person's skills (canvas, edit video, design campaign) and tech stack ("Cloud Computing", "Natural Language Processing"). Do not add programming language or library
+    "skills":[ // Only include significant skills. Not exceed 8 skills
+        {
+            "name":${name},
+            "year_of_exp":${year_of_exp} // number of years of working or researching experience
+        }
+    ],
+    // If the person's jobs and experience is closely related to technology. Return the programming languages or libraries.
+    "programming_language":[ // Only include significant programming languages or libraries. Not exceed 8 languages.
+        {
+            "programming":${language}, // e.g. Python, Tensorflow, Java, Spring Boot, Kafka, C++, SQL, R, etc.
+            "year_of_exp":${year_of_exp} // number of years of working or researching experience
+        }
+    ]
+    
+}]
+

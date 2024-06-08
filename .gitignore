@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+*.egg-info
+/.env
+/.vscode
+/__pycache__/
+data/
+data/*
+gradio_cached_examples/
+temp/
+/neo4jdb.ipynb
