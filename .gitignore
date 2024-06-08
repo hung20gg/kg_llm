@@ -9,3 +9,4 @@ data/*
 gradio_cached_examples/
 temp/
 /neo4jdb.ipynb
+/test.ipynb
