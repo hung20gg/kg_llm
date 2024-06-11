@@ -1,7 +1,7 @@
 from processing_data.extract_data import *
 from processing_data.read_pdf import *
 import agent.agent_prompt as agent_prompt
-from agent import BedRockLLMs, LLMChat, CoreLLMs
+from agent import BedRockLLMs, LLMChat, CoreLLMs, Gemini
 
 import os
 import sys
@@ -32,7 +32,9 @@ class Agent:
     def __init__(self, kg,
                 retrieval_hub,
                 reranker,
-                query):
+                query,
+                routing = 'local',
+                jd_extraction = 'aws'):
         self.llm_args = {
             "model_name": model_name,
             "access_key": access_key,
@@ -70,9 +72,19 @@ class Agent:
         self.reranker = reranker
         self.chatbot = LLMChat(**self.llm_args)
         # self.llm_cv_extraction = BedRockLLMs(**self.llm_cv_extraction_args)
-        self.llm_jd_extraction = BedRockLLMs(**self.llm_jd_extraction_args)
-        self.llm_routing = CoreLLMs(model_name='microsoft/Phi-3-mini-4k-instruct')
-        # self.llm_routing = BedRockLLMs(**self.llm_routing_args)
+        
+        if jd_extraction == 'local':
+            self.llm_jd_extraction = CoreLLMs()
+        elif jd_extraction == 'aws':
+            self.llm_jd_extraction = BedRockLLMs(**self.llm_jd_extraction_args)
+        else:
+            self.llm_jd_extraction = Gemini()
+            
+        if routing == 'local':
+            self.llm_routing = CoreLLMs(model_name='microsoft/Phi-3-mini-4k-instruct')
+        else:
+            self.llm_routing = BedRockLLMs(**self.llm_routing_args)
+            
         self.query = query
         self.system_message = {"role":"system", 
                                 "content":"""You are an helpful assistant for HR department. You should provide high quality and precise response to HR. If you are not sure about anything, feel free to ask for clarity. If you don't know about the answer, just response I don't know. The current recruitment date is May 2024"""}

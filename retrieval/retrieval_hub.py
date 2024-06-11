@@ -4,7 +4,7 @@ from langchain_community.embeddings.sentence_transformer import (
     SentenceTransformerEmbeddings,
 )
 
-class RetrivalHub:
+class RetrievalHub:
     def __init__(self, kg, model_name = 'BAAI/bge-small-en-v1.5'):
         
         self.kg = kg

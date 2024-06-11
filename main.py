@@ -2,7 +2,7 @@ from processing_data.extract_data import *
 from processing_data.read_pdf import *
 from agent.agent_prompt import *
 from database.GraphDB import KnowledgeGraphDB
-from retrieval.retrieval_hub import RetrivalHub
+from retrieval.retrieval_hub import RetrievalHub
 from query_and_ranking.query import Query
 from query_and_ranking.rerank import Reranker
 
@@ -61,7 +61,7 @@ print("Loading DB")
 llm = BedRockLLMs(**llm_cv_extraction_args)
 chatllm = BedRockLLMs(**llm_args)
 kg = KnowledgeGraphDB(uri=neo4j_uri, user=neo4j_user, password=neo4j_password)
-retrieval_hub = RetrivalHub(kg)
+retrieval_hub = RetrievalHub(kg)
 reranker = Reranker()
 
 cv_query = Query(kg, retrieval_hub)
