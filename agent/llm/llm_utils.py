@@ -80,10 +80,9 @@ def convert_to_multimodal_format(messages, has_system=True):
         new_messages.append({"role": role, "content": [{'type':'text', 'text':content}]})
     return new_messages
 
-def convert_to_gemini_format(messages, has_system=True):
+def convert_to_gemini_format(messages):
     new_messages = []
-    if not has_system:
-        messages = convert_non_system_prompts(messages)
+    messages = convert_non_system_prompts(messages)
     for i, item in enumerate(messages):
         role = item["role"]
         content = item["content"]

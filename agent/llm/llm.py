@@ -58,7 +58,7 @@ class CoreLLMs:
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_name, 
             device_map = self.device, 
-            torch_dtype = 'auto', 
+            torch_dtype = torch.bfloat16, 
             trust_remote_code = True,
             quantization_config = quantize_config 
         )
@@ -95,12 +95,13 @@ class Gemini:
     def __call__(self, message):
         if isinstance(message, list):
             message = convert_to_gemini_format(message)
-        response = self.model.generate_content(message, safety_settings=self.safety_settings,generation_config=genai.types.GenerationConfig(
+        response = self.model.generate_content(message, safety_settings=self.safety_settings,
+            generation_config=genai.types.GenerationConfig(
             # Only one candidate for now.
-            candidate_count=1,
-        
-            max_output_tokens=20000,
-            temperature=0.3)
+                                candidate_count=1,
+                            
+                                max_output_tokens=20000,
+                                temperature=0.3)
             )   
         return response.candidates[0].content.parts[0].text
         

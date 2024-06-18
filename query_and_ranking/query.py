@@ -1,6 +1,5 @@
-from retrieval.retrieval_hub import RetrivalHub
+from retrieval.retrieval_hub import RetrievalHub
 from database.GraphDB import KnowledgeGraphDB
-from database.ChromaDB import ChromaDB
 from agent.agent_prompt import *
 import numpy as np
 from scipy.spatial.distance import cdist
@@ -34,7 +33,7 @@ def cosine_similarity_search(query, data, top_k=5):
     return top_k_indices
 
 class Query:
-    def __init__(self, kg: KnowledgeGraphDB, retrieval_hub : RetrivalHub):
+    def __init__(self, kg: KnowledgeGraphDB, retrieval_hub : RetrievalHub):
         self.kg = kg
         self.retrieval_hub = retrieval_hub
         

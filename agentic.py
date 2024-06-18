@@ -77,8 +77,10 @@ class Agent:
             self.llm_jd_extraction = CoreLLMs()
         elif jd_extraction == 'aws':
             self.llm_jd_extraction = BedRockLLMs(**self.llm_jd_extraction_args)
-        else:
+        elif jd_extraction == 'gemini':
             self.llm_jd_extraction = Gemini()
+        else:
+            self.llm_jd_extraction = CoreLLMs(model_name=jd_extraction)
             
         if routing == 'local':
             self.llm_routing = CoreLLMs(model_name='microsoft/Phi-3-mini-4k-instruct')
