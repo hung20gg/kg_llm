@@ -6,8 +6,6 @@ from langchain_community.embeddings.sentence_transformer import (
 import chromadb
 import os
 
-openai_key = 'sk-proj-bVjgTWrZRaxKU1ZMzPDRT3BlbkFJEu5tFhOSfz7MreP8GT99'
-
 class ChromaDB(Chroma):
     def __init__(self, data_path: str, model: str = 'BAAI/bge-small-en-v1.5'):
         
